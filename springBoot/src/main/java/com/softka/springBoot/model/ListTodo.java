@@ -23,7 +23,7 @@ public class ListTodo {
     private boolean isCompleted;
 
     /**
-     * Aqui se hace el ManyToOne y el la union a través del Join con la clase/tabla Category.
+     * Aquí se hace el ManyToOne y el la union a través del Join con la clase/tabla Category.
      */
 
     @ManyToOne
